@@ -1,1 +1,23 @@
+title: "Rashidatu Abdulazeez"
+description: "Evolutionary genetics and ecotoxicology using Drosophila to link environmental exposure, infection biology, and evolution."
+theme: minima
+
+# Pretty URLs like /research/ instead of /research.html
+permalink: pretty
+
+# Top navigation (minima shows these pages)
+header_pages:
+  - research.md
+  - publications.md
+  - cv.md
+  - teaching.md
+  - outreach.md
+  - grants.md
+  - people.md    
+  - contact.md
+
+author: "Dr Rashidatu Abdulazeez"
+email: rabdulaz@ed.ac.uk
+
+markdown: kramdown
 
