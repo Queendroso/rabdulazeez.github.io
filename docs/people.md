@@ -90,19 +90,13 @@ title: "People"
 - Akamagwuna Ruth Miracle (B.Sc. Zoology, A.B.U. Zaria)
 - Fafoluyi Victoria Olamide (B.Sc. Zoology, A.B.U. Zaria)
 
-### 2024/2025 (Cohort E)
+### 2024/2025 (Co-supervised) (Cohort E)
 - Gambo Aisha (B.Sc. Zoology, A.B.U. Zaria)
-- Muslim Bashirat Omobolaji (B.Sc. Zoology, A.B.U. Zaria)
-- Olarewaju Itunuoluwa Hephzibah (B.Sc. Zoology, A.B.U. Zaria)
-- Taimake Naanduk Dakup (B.Sc. Zoology, A.B.U. Zaria)
-- Aliyu Aliyu Barau (B.Sc. Zoology, A.B.U. Zaria)
-- 
+- Manko, Aisha (B.Sc. Biology, A.B.U. Zaria)
+- Abdullahi Hussaina Usman (B.Sc. Zoology, A.B.U. Zaria)
+- Amonye Edache Shammah (B.Sc. Zoology, A.B.U. Zaria)
+- Ahmad Rukayya Saeed (B.Sc. Zoology, A.B.U. Zaria)
+  
 
-<details>
-<summary><strong>Show 2018/2019 cohort</strong></summary>
 
-- Student A …  
-- Student B …
-
-</details>
 
