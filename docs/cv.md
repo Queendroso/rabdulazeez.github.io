@@ -1,7 +1,7 @@
 ---
 title: "CV"
 ---
-[Download full CV (PDF)](/Rashidatu_Abdulazeez_CV.pdf)
+[Download full CV (PDF)]({{ site.baseurl }}/Rashidatu_Abdulazeez_CV.pdf)
 
 ## Profile
 Evolutionary geneticist and ecotoxicologist using Drosophila to study how environmental toxins shape population dynamics, evolution, and disease aetiology. Experienced in research, lab setup/management, and supervision. Strong commitment to science communication and equitable capacity‑building in Africa.
