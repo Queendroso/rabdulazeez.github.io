@@ -10,3 +10,4 @@ title: "Teaching & Supervision"
 - Postgraduate students: 3+ (officially supervised/co‑supervised).  
 - Mentoring: research design, methods, analysis, scientific writing, career development.
 
+See also: [People (current students and alumni)]({{ site.baseurl }}/people/)
