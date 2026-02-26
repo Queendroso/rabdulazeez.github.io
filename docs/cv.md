@@ -30,7 +30,7 @@ Evolutionary geneticist and ecotoxicologist using Drosophila to study how enviro
 - Patent co‑inventor: AIRVOLT wind turbine for off‑grid health centres (RP: NG/PT/NC/O/2025/18375).
 
 ## Grants, fellowships, awards (selected)
-NIF (2024–26); SGCI–TETFund (2024–25); TWAS–DFG (2024); FlyBase Outreach (2023); TETFund IBR (2021); Best Presenter (GSN 2021).
+NIF (2025–27); SGCI–TETFund (2024–25); TWAS–DFG (2024); FlyBase Outreach (2023); TETFund IBR (2021); Best Presenter (GSN 2021).
 
 ## Teaching and supervision
 - Nine Biology/Zoology modules to >2,000 students.  
