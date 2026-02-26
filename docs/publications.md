@@ -23,5 +23,5 @@ Link hubs
 - 2021 — Ibrahim AB, Abdulazeez R, Ishaq FM. Species composition, abundance and bait preference of fruit flies… Nig. J. of Wildlife Mgt. 5(2):20–27.  
 - 2020 — Abdulazeez R, Prokop A. How Fruit Flies Can Boost Life and Biomedical Sciences in Nigeria. YEN Live. https://www.yenlive.com/news/index.php/opinion/3158-video-how-fruit-flies-can-boost-life-and-biomedical-sciences-in-nigeria
 
-Full list: see ORCID or download my [full CV (PDF)](./cv.md).
+Full list: see ORCID or visit the [CV page]({{ site.baseurl }}/cv/).
 
