@@ -17,10 +17,14 @@ Quick links
 - Droso4Nigeria: https://www.droso4nigeria.wordpress.com/contact/
 
 ## Highlights
+## Highlights
 - Built ABU’s first Drosophila research laboratory and Nigerian Drosophila stock center; supported multiple new Drosophila labs nationwide.  
 - Lead chronic additives and ecotoxins assays to study their effects on Drosophila biology. 
 - Comparative genomics resource for endogenous viral elements (EVEs) in Drosophilidae; early outputs presented at BBSTEM (2025).  
 - Pan‑African capacity building: founded Droso4Nigeria and BloSTEMEI; trainer with BioRTC and DrosAfrica.
+- 
+See: [Research]({{ site.baseurl }}/research/) • [Publications]({{ site.baseurl }}/publications/) • [CV]({{ site.baseurl }}/cv/) • [Contact]({{ site.baseurl }}/contact/)
 
-See: [Research](/research/) • [Publications](/publications/) • [CV](/cv/) • [Contact](/contact/)
+
+
 
