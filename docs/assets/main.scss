@@ -1,0 +1,74 @@
+---
+# This front matter is required so Jekyll builds this SCSS into /assets/main.css
+---
+
+/* Load the default Minima CSS first */
+@import "minima";
+
+/* Google font (optional) */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+/* Theme colours */
+:root{
+  --brand: #0a63a3;     /* deep blue */
+  --accent: #17a2b8;    /* teal */
+  --muted: #667085;     /* grey text */
+  --bg-soft: #f7fafc;   /* soft background */
+}
+
+/* Typography */
+body { font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; color:#111; }
+h1,h2,h3 { font-weight: 700; letter-spacing: -0.2px; }
+a { color: var(--brand); }
+a:hover { color: #084b7a; }
+
+/* Site title smaller + bolder */
+.site-title { font-weight:700; font-size: 1.1rem; }
+
+/* Top navigation spacing */
+.site-nav .page-link { margin-right: .6rem; }
+.site-nav .page-link:last-child { margin-right: 0; }
+
+/* Hero section */
+.hero {
+  background: linear-gradient(180deg, rgba(0,0,0,.45), rgba(0,0,0,.35)),
+              url('{{ site.baseurl }}/assets/images/hero.jpg') center/cover no-repeat;
+  color: #fff;
+  padding: 4rem 1.25rem;
+  border-radius: 14px;
+  margin-bottom: 1.25rem;
+}
+.hero h1 { margin: 0 0 .25rem 0; font-size: clamp(1.8rem, 3.5vw, 2.6rem); }
+.hero p.lead { margin: .25rem 0 1rem 0; font-size: 1.05rem; color:#f1f5f9; }
+
+/* Buttons */
+.btn {
+  display:inline-block; padding:.6rem 1rem; border-radius:999px;
+  text-decoration:none; font-weight:600; margin-right:.5rem;
+}
+.btn-primary { background: var(--brand); color:#fff; }
+.btn-secondary { background: #fff; color: var(--brand); border:2px solid var(--brand); }
+.btn:hover { filter: brightness(.95); }
+
+/* Card grid for highlights */
+.grid-3 {
+  display:grid; gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(260px,1fr));
+  margin: 1rem 0 2rem 0;
+}
+.card {
+  background:#fff; border:1px solid #e5e7eb; border-radius:12px;
+  padding:1rem; box-shadow: 0 1px 2px rgba(16,24,40,.05);
+}
+.card h3 { margin-top:0; font-size:1.05rem; }
+
+/* Soft section background */
+.section-soft { background: var(--bg-soft); padding: 1rem; border-radius:12px; }
+
+/* Footer tweaks */
+.site-footer { color:#667085; }
+
+/* Make nav wrap nicely on small screens */
+@media (max-width: 700px) {
+  .site-nav .page-link { display:inline-block; margin: .25rem .4rem .25rem 0; }
+}
