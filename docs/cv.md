@@ -1,7 +1,4 @@
----
-title: "CV"
----
-[Download full CV (PDF)]({{ site.baseurl }}/Rashidatu_Abdulazeez_CV.pdf)
+
 ---
 title: "CV"
 ---
