@@ -1,56 +1,74 @@
 ---
-# This front matter is required so Jekyll builds this SCSS into /assets/main.css
+# Jekyll must see front matter so it builds this into /assets/main.css
 ---
 
-/* Load the default Minima CSS first */
+/* Load the default Minima first */
 @import "minima";
 
-/* Google font (optional) */
+/* Optional: Google font */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
 
-/* Theme colours */
+/* Leaf-green palette + accessibility-focused contrast */
 :root{
-  --brand: #0a63a3;     /* deep blue */
-  --accent: #17a2b8;    /* teal */
-  --muted: #667085;     /* grey text */
-  --bg-soft: #f7fafc;   /* soft background */
+  --brand: #2e7d32;     /* leaf green (accessible on white) */
+  --brand-dark: #1b5e20;/* darker green for hovers/headers */
+  --accent: #81c784;    /* light green accent */
+  --text: #111827;      /* near-black body text */
+  --muted: #667085;     /* muted text */
+  --bg: #ffffff;        /* page background */
+  --bg-soft: #f4f9f4;   /* soft green-tinted background */
 }
 
-/* Typography */
-body { font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif; color:#111; }
+/* Typography & base colors */
+body {
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  color: var(--text);
+  background:
+    radial-gradient(1200px 600px at -10% -10%, #e8f5e9 0%, transparent 60%),
+    radial-gradient(1200px 600px at 110% -10%, #e8f5e9 0%, transparent 60%),
+    var(--bg);
+}
+
 h1,h2,h3 { font-weight: 700; letter-spacing: -0.2px; }
-a { color: var(--brand); }
-a:hover { color: #084b7a; }
+a { color: var(--brand-dark); text-decoration-thickness: .08em; }
+a:hover { color: var(--brand); }
 
-/* Site title smaller + bolder */
-.site-title { font-weight:700; font-size: 1.1rem; }
+/* Header (green) */
+.site-header {
+  background: var(--brand-dark);
+  border: none;
+}
+.site-title, .site-title:visited { color: #fff !important; }
+.site-nav .page-link { color: #ffffff !important; opacity: .95; margin-right: .6rem; }
+.site-nav .page-link:hover { opacity: 1; text-decoration: underline; }
 
-/* Top navigation spacing */
-.site-nav .page-link { margin-right: .6rem; }
-.site-nav .page-link:last-child { margin-right: 0; }
+/* Footer */
+.site-footer { background: #0f3d14; color: #d1fae5; border: none; }
+.site-footer a { color: #d1fae5; }
 
-/* Hero section */
+/* Hero (with image + dark overlay for white text) */
 .hero {
-  background: linear-gradient(180deg, rgba(0,0,0,.45), rgba(0,0,0,.35)),
-              url('{{ site.baseurl }}/assets/images/hero.jpg') center/cover no-repeat;
+  background:
+    linear-gradient(180deg, rgba(0,0,0,.45), rgba(0,0,0,.35)),
+    url('{{ site.baseurl }}/assets/images/hero.jpg') center/cover no-repeat;
   color: #fff;
   padding: 4rem 1.25rem;
   border-radius: 14px;
-  margin-bottom: 1.25rem;
+  margin: 1.25rem 0;
 }
 .hero h1 { margin: 0 0 .25rem 0; font-size: clamp(1.8rem, 3.5vw, 2.6rem); }
-.hero p.lead { margin: .25rem 0 1rem 0; font-size: 1.05rem; color:#f1f5f9; }
+.hero p.lead { margin: .25rem 0 1rem 0; font-size: 1.05rem; color:#f0fdf4; }
 
 /* Buttons */
 .btn {
   display:inline-block; padding:.6rem 1rem; border-radius:999px;
   text-decoration:none; font-weight:600; margin-right:.5rem;
 }
-.btn-primary { background: var(--brand); color:#fff; }
-.btn-secondary { background: #fff; color: var(--brand); border:2px solid var(--brand); }
+.btn-primary { background: #ffffff; color: var(--brand-dark); border:2px solid #fff; }
+.btn-secondary { background: transparent; color: #fff; border:2px solid #fff; }
 .btn:hover { filter: brightness(.95); }
 
-/* Card grid for highlights */
+/* Cards & soft sections */
 .grid-3 {
   display:grid; gap: 1rem;
   grid-template-columns: repeat(auto-fit, minmax(260px,1fr));
@@ -60,15 +78,15 @@ a:hover { color: #084b7a; }
   background:#fff; border:1px solid #e5e7eb; border-radius:12px;
   padding:1rem; box-shadow: 0 1px 2px rgba(16,24,40,.05);
 }
-.card h3 { margin-top:0; font-size:1.05rem; }
-
-/* Soft section background */
 .section-soft { background: var(--bg-soft); padding: 1rem; border-radius:12px; }
 
-/* Footer tweaks */
-.site-footer { color:#667085; }
+/* Contact page portrait */
+.portrait {
+  display:flex; align-items:center; gap: 1rem; margin: 0 0 1rem 0;
+}
+.portrait img { border-radius: 50%; width: 140px; height: 140px; object-fit: cover; border: 3px solid #c8e6c9; }
 
-/* Make nav wrap nicely on small screens */
+/* Make nav wrap on small screens */
 @media (max-width: 700px) {
   .site-nav .page-link { display:inline-block; margin: .25rem .4rem .25rem 0; }
 }
