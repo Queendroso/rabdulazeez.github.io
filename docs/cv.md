@@ -36,7 +36,7 @@ NIF (2025–27); SGCI–TETFund (2024–25); TWAS–DFG (2024); FlyBase Outreach
 
 ## Teaching and supervision
 - Nine Biology/Zoology modules to >2,000 students.  
-- Supervised 50+ undergraduate and 3+ postgraduate projects.
+- Supervised, co-supervised, and mentored 50+ undergraduate and 3+ postgraduate projects.
 
 ## Professional memberships
 SMBE; Science Association of Nigeria; Genetics Society of Nigeria; Zoological Society of Nigeria.
