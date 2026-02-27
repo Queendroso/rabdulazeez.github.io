@@ -1,6 +1,7 @@
 ---
 title: "Contact"
 ---
+<img src="{{ site.baseurl }}/assets/images/avatar.jpg" alt="Portrait of Dr Rashidatu Abdulazeez" width="140" style="border-radius: 70px;"/>
 
 - Email (primary1): rabdulaz@ed.ac.uk
 - Email (primary2): rabdulazeez@abu.edu.ng   
