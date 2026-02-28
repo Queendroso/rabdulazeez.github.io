@@ -6,10 +6,10 @@ title: "CV"
 <p><a class="btn btn-primary" href="{{ site.baseurl }}/Rashidatu_Abdulazeez_CV.pdf">Download full CV (PDF)</a></p>
 
 ## Profile
-Evolutionary geneticist and ecotoxicologist using Drosophila to study how environmental toxins shape population dynamics, evolution, and disease aetiology. Experienced in research, lab setup/management, and supervision. Strong commitment to science communication and equitable capacity‑building in Africa.
+Evolutionary geneticist and ecotoxicologist interested in understanding how environmental toxins and additives shape population dynamics, evolution, and disease aetiology in Drosophila. Experienced in research, lab setup/management, and supervision. Strong commitment to science communication and equitable capacity‑building in Africa.
 
 - Strengths: population genetics; host–microbe interactions; EVEs; environmental toxicology; behavioural genetics; molecular biology.  
-- Supervision: 50+ undergraduate; 3+ postgraduate (official records).  
+- Supervision/co-supervision: 50+ undergraduate; 3+ postgraduate.  
 - Communication/outreach: extensive national and international engagement.
 
 ## Current appointments
@@ -39,5 +39,5 @@ NIF (2025–27); SGCI–TETFund (2024–25); TWAS–DFG (2024); FlyBase Outreach
 - Supervised, co-supervised, and mentored 50+ undergraduate and 3+ postgraduate projects.
 
 ## Professional memberships
-SMBE; Science Association of Nigeria; Genetics Society of Nigeria; Zoological Society of Nigeria.
+Society of Molecular Biology and Evolution; Science Association of Nigeria; Genetics Society of Nigeria; Zoological Society of Nigeria.
 
