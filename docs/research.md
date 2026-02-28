@@ -3,7 +3,7 @@ title: "Research"
 ---
 
 ## Vision
-My research niche sits at the intersection of environmental toxicology, disease aetiology, and evolutionary genetics. I investigate how exposure to toxins/additives shapes host biology, disease susceptibility, population dynamics, and evolutionary processes. Using Drosophila melanogaster as a tractable model, my work integrates controlled experimental exposure with fitness and molecular readouts. It extends to multi-generation designs to test whether toxin-driven vulnerabilities can persist through host adaptation, microbial mediation, or evolutionary change.
+My research sits at the intersection of environmental toxicology, disease aetiology, and evolutionary genetics. I investigate how exposure to toxins and additives shapes host biology, disease susceptibility, population dynamics, and evolutionary processes. Using Drosophila melanogaster as a tractable model, I combine controlled chronic exposure with high‑replication fitness and molecular readouts.
 
 ## Current projects
 ### Endogenous Viral Elements (EVEs) in Drosophilidae
@@ -11,10 +11,10 @@ My research niche sits at the intersection of environmental toxicology, disease 
 - Building an annotated resource to support manuscripts and future grants.
 
 ## Methods and skills
-- Molecular: PCR/RT‑qPCR; RNA workflows; small‑RNA/RNA‑seq (core facilities).  
-- Drosophila: husbandry, dissection, behavior (Ctrax), gnotobiotic workflows.  
-- Analytics: R (survival, mixed models, mediation/SEM), Linux, population genomics.  
-- Facilities: Edinburgh Clinical Research Facility (MVM), Metabolomics, ICP‑MS.
+- Molecular: PCR/RT‑qPCR.  
+- Drosophila: husbandry, dissection, behavior (Ctrax). 
+- Analytics: R, Linux, GenAlEx, MEGA, Cervus, STRUCTURE.  
+
 
 ## Collaborations
 - Prof. D. Obbard (host–virus evolution, University of Edinburgh, UK)
