@@ -19,11 +19,6 @@ title: "Dr Rashidatu Abdulazeez"
 - ORCID: https://orcid.org/0000-0003-2566-3321  
 - Droso4Nigeria: https://www.droso4nigeria.wordpress.com/contact/
 
-<div class="grid-3">
-  <div class="card">
-    <h3>Chronic lead & infection risk</h3>
-    <p>Quantifying exposure–response (survival, viral load) anchored to internal lead burden (ICP‑MS); testing barrier integrity, oxidative stress, and antiviral pathways.</p>
-    <a href="{{ site.baseurl }}/research/">Learn more →</a>
   </div>
   <div class="card">
     <h3>Endogenous viral elements (EVEs)</h3>
