@@ -35,8 +35,8 @@ title: "Dr Rashidatu Abdulazeez"
 <div class="section-soft">
   <h3>Recent highlights</h3>
   <ul>
-    <li>Resveratrol rescue of lead toxicity in Drosophila (Environmental Toxicology & Pharmacology, 2024).</li>
-    <li>Co‑author: Genome Research (2023) on mutation, recombination, transposition rates in Drosophila.</li>
     <li>BBSTEM 2025 flash talk; EDRC 2025 participation.</li>
+    <li>Resveratrol rescue of lead toxicity in Drosophila (Environmental Toxicology & Pharmacology, 2024).</li>
+    <li>Co‑author: Genome Research (2023) on mutation, recombination, transposition rates in Drosophila.</li> 
   </ul>
 </div>
