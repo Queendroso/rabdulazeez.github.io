@@ -40,5 +40,3 @@ title: "Dr Rashidatu Abdulazeez"
     <li>Co‑author: Genome Research (2023) on mutation, recombination, transposition rates in Drosophila.</li>
   </ul>
 </div>
-  </ul>
-</div>
