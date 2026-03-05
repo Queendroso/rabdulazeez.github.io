@@ -19,6 +19,7 @@ title: "Dr Rashidatu Abdulazeez"
 - [ORCID](https://orcid.org/0000-0003-2566-3321)
 - [Droso4Nigeria](https://www.droso4nigeria.wordpress.com/contact/)
 
+<div class="grid-3">
   <div class="card">
     <h3>Endogenous viral elements (EVEs)</h3>
     <p>Comparative genomics pipeline across Drosophilidae; annotated resource for host–virus coevolution.</p>
@@ -26,16 +27,18 @@ title: "Dr Rashidatu Abdulazeez"
   </div>
   <div class="card">
     <h3>Capacity building</h3>
-    <p>Founder of Droso4Nigeria & BloSTEMEI; national teacher trainings and model‑organism outreach across Africa.</p>
+    <p>Founder of Droso4Nigeria &amp; BloSTEMEI; national teacher trainings and model‑organism outreach across Africa.</p>
     <a href="{{ site.baseurl }}/outreach/">See outreach →</a>
   </div>
-
+</div>
 
 <div class="section-soft">
   <h3>Recent highlights</h3>
   <ul>
     <li>BBSTEM 2025 flash talk; EDRC 2025 participation.</li>
-    <li>Resveratrol rescue of lead toxicity in Drosophila (Environmental Toxicology & Pharmacology, 2024).</li>
+    <li>Resveratrol rescue of lead toxicity in Drosophila (Environmental Toxicology &amp; Pharmacology, 2024).</li>
     <li>Co‑author: Genome Research (2023) on mutation, recombination, transposition rates in Drosophila.</li>
+  </ul>
+</div>
   </ul>
 </div>
