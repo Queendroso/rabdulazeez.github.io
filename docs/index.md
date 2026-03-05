@@ -29,7 +29,7 @@ title: "Dr Rashidatu Abdulazeez"
     <p>Founder of Droso4Nigeria & BloSTEMEI; national teacher trainings and model‑organism outreach across Africa.</p>
     <a href="{{ site.baseurl }}/outreach/">See outreach →</a>
   </div>
-</div>
+
 
 <div class="section-soft">
   <h3>Recent highlights</h3>
