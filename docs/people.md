@@ -9,7 +9,8 @@ title: "People"
 ## Current supervision
   - Idris S. (MSc Biology, Ahmadu Bello University, Zaria, Nigeria) — Monosodium glutamate and ginger. 
   - Abubakar S.A. (MSc Zoology, Ahmadu Bello University, Zaria, Nigeria) — AMR and chronic lead exposure.
-
+  - Ojobor U.E. (BSc Zoology, Ahmadu Bello University, Zaria, Nigeria) — Infection and chronic lead exposure.
+    
 ## Past lab members 
 
 ### 2018/2019 (cohort A)
