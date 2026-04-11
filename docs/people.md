@@ -10,7 +10,7 @@ title: "People"
   - Idris S. (MSc Biology, Ahmadu Bello University, Zaria, Nigeria) — Monosodium glutamate and ginger. 
   - Abubakar S.A. (MSc Zoology, Ahmadu Bello University, Zaria, Nigeria) — AMR and chronic lead exposure.
 
-## Alumni 
+## Past lab members 
 
 ### 2018/2019 (cohort A)
 - Daniel Rejoice Nomtei (B.Sc. Zoology, A.B.U. Zaria)
