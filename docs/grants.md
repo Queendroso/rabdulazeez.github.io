@@ -3,7 +3,7 @@ title: "Grants & Awards"
 ---
 
 ## Grants and fellowships 
-- Newton International Fellowship (2025–2027) — Host: University of Edinburgh (Sponsor: Prof Darren Obbard).  
+- Newton International Fellowship (2025–2027) — Host: University of Edinburgh.  
 - SGCI–TETFund Research for Impact (2024–2025) — AirVolt; Co‑I; community engagement leadership.  
 - TWAS–DFG Cooperation Visit Award (2024) — RWTH Aachen, Germany.  
 - FlyBase Drosophila Outreach Support Grant (2023).  
