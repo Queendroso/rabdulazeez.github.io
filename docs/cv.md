@@ -79,7 +79,7 @@ Ahmadu Bello University, Zaria, Nigeria (Nov 2012)
 
 ## Grants, Fellowships and Awards (Selected)
 
-- NIF Research Fellowship Grant (2025–2027)
+- NIF Research Fellowship Grant (2025– present)
 - SGCI–TETFund Research for Impact Grant (2024–2025)
 - TWAS–DFG Cooperation Visit Award (2024)
 - FlyBase Drosophila Outreach Support Grant (2023)
