@@ -1,15 +1,16 @@
 ---
 title: "Home"
+layout: home
 ---
 
-<img src="/assets/images/avatar.jpg" alt="Dr Rashidatu Abdulazeez" style="width:160px; border-radius:50%; float:right; margin-left:20px;">
+<img src="{{ site.baseurl }}/assets/images/avatar.jpg" alt="Dr Rashidatu Abdulazeez" style="width:160px; border-radius:50%; float:right; margin-left:20px;">
 
 # Dr Rashidatu Abdulazeez
 
 I am a host‑pathogen evolutionary geneticist and ecotoxicologist. I ask how chronic environmental exposures reshape host biology, evolution, and vulnerability to infectious disease using *Drosophila melanogaster*.
 
-<a class="btn btn-primary" href="/publications/">View publications</a>
-<a class="btn btn-secondary" href="/cv/">Download CV (PDF)</a>
+<a class="btn btn-primary" href="{{ site.baseurl }}/publications/">View publications</a>
+<a class="btn btn-secondary" href="{{ site.baseurl }}/cv/">Download CV (PDF)</a>
 
 ### Affiliations
 - Institute of Ecology and Evolution, School of Biological Sciences, University of Edinburgh, UK  
