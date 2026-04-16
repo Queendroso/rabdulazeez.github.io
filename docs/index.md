@@ -4,7 +4,7 @@ title: "Dr Rashidatu Abdulazeez"
 
 <div class="hero">
   <h1>Dr Rashidatu Abdulazeez</h1>
-  <p class="lead">Evolutionary genetics and ecotoxicology using Drosophila to link environmental exposure, infection biology, and evolution.</p>
+  <p class="lead">I am a host‑pathogen evolutionary geneticist and ecotoxicologist. I ask how chronic environmental exposures reshape host biology, evolution, and vulnerability to infectious disease using Drosophila melanogaster.</p>
   <a class="btn btn-primary" href="{{ site.baseurl }}/publications/">View publications</a>
   <a class="btn btn-secondary" href="{{ site.baseurl }}/cv/">Download CV (PDF)</a>
 </div>
