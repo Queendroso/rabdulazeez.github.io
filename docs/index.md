@@ -1,15 +1,14 @@
-  ---
+ ---
 title: "Home"
 layout: default
 ---
 
-<div class="hero">
-  <img src="/docs/assets/images/avatar.jpg" alt="Dr Rashidatu Abdulazeez" style="width:160px; border-radius:50%; float:right; margin-left:20px; margin-bottom:20px;">
-  <h1 style="margin-top:0;">Dr Rashidatu Abdulazeez</h1>
-  <p class="lead">I am a host‑pathogen evolutionary geneticist and ecotoxicologist. I ask how chronic environmental exposures reshape host biology, evolution, and vulnerability to infectious disease using <em>Drosophila melanogaster</em>.</p>
-  <a class="btn btn-primary" href="{{ site.baseurl }}/publications/">View publications</a>
-  <a class="btn btn-secondary" href="{{ site.baseurl }}/cv/">Download CV (PDF)</a>
-</div>
+<img src="https://queendroso.github.io/rabdulazeez.github.io/docs/assets/images/avatar.jpg" alt="Dr Rashidatu Abdulazeez" style="width:160px; border-radius:50%; float:right; margin-left:20px; margin-bottom:20px;">
+
+<p class="lead" style="margin-top:0;">I am a host‑pathogen evolutionary geneticist and ecotoxicologist. I ask how chronic environmental exposures reshape host biology, evolution, and vulnerability to infectious disease using <em>Drosophila melanogaster</em>.</p>
+
+<a class="btn btn-primary" href="{{ site.baseurl }}/publications/">View publications</a>
+<a class="btn btn-secondary" href="{{ site.baseurl }}/cv/">Download CV (PDF)</a>
 
 ### Affiliations
 - Institute of Ecology and Evolution, School of Biological Sciences, University of Edinburgh, UK  
