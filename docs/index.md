@@ -1,10 +1,11 @@
 ---
-title: "Dr Rashidatu Abdulazeez"
+title: "Home"
 ---
 
 <div class="hero">
+  <img src="/assets/images/avatar.jpg" alt="Dr Rashidatu Abdulazeez" style="width:160px; border-radius:50%; float:right; margin-left:20px; margin-bottom:20px;">
   <h1>Dr Rashidatu Abdulazeez</h1>
-  <p class="lead">I am a host‑pathogen evolutionary geneticist and ecotoxicologist. I ask how chronic environmental exposures reshape host biology, evolution, and vulnerability to infectious disease using Drosophila melanogaster.</p>
+  <p class="lead">I am a host‑pathogen evolutionary geneticist and ecotoxicologist. I ask how chronic environmental exposures reshape host biology, evolution, and vulnerability to infectious disease using <em>Drosophila melanogaster</em>.</p>
   <a class="btn btn-primary" href="{{ site.baseurl }}/publications/">View publications</a>
   <a class="btn btn-secondary" href="{{ site.baseurl }}/cv/">Download CV (PDF)</a>
 </div>
