@@ -83,9 +83,10 @@ Ahmadu Bello University, Zaria, Nigeria (Nov 2012)
 - SGCI–TETFund Research for Impact Grant (2024–2025)
 - TWAS–DFG Cooperation Visit Award (2024)
 - FlyBase Drosophila Outreach Support Grant (2023)
+- Yobe State Governor's Award (2022)
 - TETFund Institutional Based Research Grant (2021)
 - Best Presenter Award, Genetics Society of Nigeria (2021)
-- Yobe State Governor's Award (2022)
+
 
 ---
 
