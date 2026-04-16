@@ -16,7 +16,9 @@ header_pages:
   - people.md
   - contact.md
 
-author: "Dr Rashidatu Abdulazeez"
+# Commented out to prevent duplicate name
+# author: "Dr Rashidatu Abdulazeez"
+
 email: rabdulaz@ed.ac.uk
 markdown: kramdown
 
