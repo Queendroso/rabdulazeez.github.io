@@ -13,6 +13,7 @@ title: "Home"
 ### Affiliations
 - Institute of Ecology and Evolution, School of Biological Sciences, University of Edinburgh, UK  
 - Department of Zoology, Faculty of Life Sciences, Ahmadu Bello University, Zaria, Nigeria
+- Biomedical Research and Training Centre, Yobe State Unviersity, Damaturu, Nigeria
 
 ### Quick links
 - [LinkedIn](https://www.linkedin.com/in/rashidat-abdulazeez-609569127/)
